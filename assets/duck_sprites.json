@@ -1,0 +1,41 @@
+{"frames": {
+	"fly-01.png":
+	{
+		"frame":{"x":0,"y":0,"w":16,"h":16},
+		"sourceSize": { "w": 16, "h": 18 },
+		"spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 18 }
+	
+	},
+	"fly-02.png":
+	{
+		"frame":{"x":0,"y":16,"w":16,"h":16},
+		"sourceSize": { "w": 16, "h": 18 },
+		"spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 18 }
+	
+	},
+	"fly-03.png":
+	{
+		"frame":{"x":0,"y":32,"w":16,"h":16},
+		"sourceSize": { "w": 16, "h": 18 },
+		"spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 18 }
+	
+	},
+	"fly-04.png":
+	{
+		"frame":{"x":0,"y":48,"w":16,"h":16},
+		"sourceSize": {"w": 16, "h": 18 },
+		"spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 18 }
+	
+	}
+
+},
+	"animations": {
+		"fly": [ "fly-01.png","fly-02.png","fly-03.png","fly-04.png" ]
+	},
+	"meta": {
+		"image": "duck_sprites.png",
+		"format": "RGBA8888",
+		"size": { "w": 16, "h": 16 },
+		"scale": "4"
+	}
+}
